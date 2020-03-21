@@ -36,6 +36,7 @@ But playing with libraries was a costly operation. Trying to implement the filte
 
 With the greedy scheduling algorithm paired with the dataset pruning, we managed to finish with ~24.5M points. This brought us to the last few minutes of the contest, and we could not come up with any new ideas that was feasible in the time remaining.
 
+# Conclusion
 Although this ranking was not high enough for us to advance to the final round, it was far better than we were expecting. We placed 2288th place globally, and 40th place in Canada.
 
 This contest was a great learning experience and enjoyable contest for us all. We learned a lot about implementing real life solutions to real life problems. We learned that trying the easiest heuristic (greedy scheduling) is always a good first step and a random algorithm is probably not a good real life solution. And even though we did devote a lot of time in random MC simulation, that was not a total waste as we carried-over ideas into our final solution. Finally, we only found out at the end, but each dataset had some specific break down (for example some dataset had more library books than others, some datasets had shorter sign up time than others, etc.) and for next year we will definitely take these statistics into our tinkering. Overall, we were very happy with our result, have no regrets and are looking forward to competing again in 2021!
